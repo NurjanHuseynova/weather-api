@@ -1,0 +1,29 @@
+Label {
+  margin-top: 10px;
+  color: wheat;
+  margin-left: 44%;
+  font-size: 25px;
+}
+.container {
+  width: 50%;
+  background-color: #5b6f87;
+  height: 65vh;
+  margin-top: 8%;
+  border-radius: 30px;
+}
+
+.main {
+  display: flex;
+}
+Button {
+  margin-left: 23px;
+}
+.desc {
+  text-transform: capitalize;
+  margin-left: 45px;
+  font-size: 24px;
+  color: wheat;
+}
+.name {
+  font-size: 30px;
+}
